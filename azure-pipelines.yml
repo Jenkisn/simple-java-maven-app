@@ -12,7 +12,7 @@ variables:
   azureSubscription: 'd06705dd-046b-4707-a0f7-56adbda7350d'
   
   # Web app name
-  webAppName: 'tele'
+  webAppName: 'simple-java-maven-app'
 
   # Environment name
   environmentName: 'dev'
